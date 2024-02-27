@@ -46,6 +46,22 @@
         {"id": 1, "name":"O Terrivel", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
       ]
+    },
+    {
+      "id":6,
+      "question": "Qual a sua energia ?",
+      "options":[
+        {"id": 1, "name":"Trevas", "alias":"A"},
+        {"id": 2, "name":"Luz", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Com grandes poderes vem... ?",
+      "options":[
+        {"id": 1, "name":"maior ptobabilicade de ficar mais forte e rico", "alias":"A"},
+        {"id": 2, "name":"grandes responsabilidades", "alias":"B"}
+      ]
     }
   ],
   "results":{
